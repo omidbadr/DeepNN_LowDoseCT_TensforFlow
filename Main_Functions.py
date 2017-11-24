@@ -8,7 +8,6 @@ import h5py
 import random
 from math import floor
 import struct
-
 import tensorflow as tf
 from PIL import Image  
 from scipy.misc import imread
